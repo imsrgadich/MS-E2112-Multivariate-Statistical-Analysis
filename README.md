@@ -2,5 +2,5 @@
 ============================================
 
 
-This repo contains the exercises and project for the Multivariate Statistical Analysis course. Most of the computer assignments were
+This repo contains the exercises and project for the Multivariate Statistical Analysis course. The computer assignments were
 accomplished in R.
